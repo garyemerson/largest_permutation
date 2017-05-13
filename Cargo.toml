@@ -1,0 +1,6 @@
+[package]
+name = "largest_permutation"
+version = "0.1.0"
+authors = ["garyemerson <garyemerson@noneya>"]
+
+[dependencies]
